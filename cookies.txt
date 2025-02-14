@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.trentstudents.org	TRUE	/	FALSE	1999999999	_nusdigital_session	d3e29e285d00abe0fd20efbe6e6a1de9
+assets.unioncloud.org	TRUE	/	FALSE	1999999999	_nusdigital_session	4f9005e1d7e5c78c075e6994c8bd32b6
+assets.unioncloud.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.trentstudents.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+
